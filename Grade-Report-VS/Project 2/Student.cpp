@@ -1,12 +1,5 @@
 /*
-	Nguyen, An (Team Leader)
-	Nguyen, Justin
-	Chen, Shanqin
-	Dang, Justin
-
-	Project: Grade Report
-	CS A250
-	Fall 2023
+	Creates the info for a student
 */
 
 #include "Student.h"
