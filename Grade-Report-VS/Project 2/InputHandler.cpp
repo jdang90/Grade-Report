@@ -1,12 +1,6 @@
 /*
-	Nguyen, An (Team Leader)
-	Nguyen, Justin
-	Chen, Shanqin
-	Dang, Justin
-
-	Project: Grade Report
-	CS A250
-	Fall 2023
+	Handles given student information and uses a file (File named Justin for example in sidebar)
+ 	and processes it for evaluation.
 */
 
 #include "InputHandler.h"
