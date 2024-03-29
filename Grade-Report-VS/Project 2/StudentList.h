@@ -1,5 +1,5 @@
 /*
-	Header file for StudnetList.cpp
+	Header file for StudentList.cpp
 */
 
 #ifndef STUDENTLIST_H
