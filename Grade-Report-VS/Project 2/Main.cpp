@@ -1,5 +1,6 @@
 /*
     Main file to create output
+    The file "student_data.txt" is the file for the user to provide student information
 */
 
 #include "Course.h"
