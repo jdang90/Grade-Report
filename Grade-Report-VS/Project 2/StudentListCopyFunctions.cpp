@@ -1,12 +1,5 @@
 /*
-    Nguyen, An (Team Leader)
-    Nguyen, Justin
-    Chen, Shanqin
-    Dang, Justin
-
-    Project: Grade Report
-    CS A250
-    Fall 2023
+    Copy functions to avoid repetitive code for StudentList
 */
 
 #include "StudentList.h" 
