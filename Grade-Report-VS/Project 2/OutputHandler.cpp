@@ -1,6 +1,7 @@
 /*
 	Handles the output for Main.cpp
  	and creates the txt file for student information
+  	Example is the file studentlist.txt
 */
 
 #include "OutputHandler.h"
