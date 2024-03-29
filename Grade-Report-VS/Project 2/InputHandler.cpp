@@ -1,5 +1,5 @@
 /*
-	Handles given student information and uses a file (File named Justin for example in sidebar)
+	Handles given student information and uses a txt file (Can be created by the user when program is ran)
  	and processes it for evaluation.
 */
 
