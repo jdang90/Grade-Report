@@ -1,6 +1,6 @@
 /*
 	Handles the output for Main.cpp
- 	and creates the txt file for student information
+ 	and creates the txt file to write on for student information
   	Example is the file studentlist.txt
 */
 
