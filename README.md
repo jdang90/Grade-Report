@@ -9,3 +9,7 @@
 # The project utilizes a singly linked list for implementation to easily manage a student's different information
 # and to efficiently navigate to the next student
 # This project was implemented through Microsoft visual studio
+
+
+# How to Run:
+Download the files and run main.cpp
